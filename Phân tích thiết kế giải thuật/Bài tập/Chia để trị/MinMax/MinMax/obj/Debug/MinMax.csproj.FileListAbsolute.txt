@@ -1,0 +1,5 @@
+C:\Users\nguye\AppData\Local\Temporary Projects\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\nguye\AppData\Local\Temporary Projects\MinMax\bin\Debug\MinMax.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\MinMax\bin\Debug\MinMax.pdb
+C:\Users\nguye\AppData\Local\Temporary Projects\MinMax\obj\Debug\MinMax.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\MinMax\obj\Debug\MinMax.pdb

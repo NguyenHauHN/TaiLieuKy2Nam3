@@ -1,0 +1,6 @@
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\Sudoku\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\Sudoku\Sudoku\obj\Debug\Sudoku.pdb

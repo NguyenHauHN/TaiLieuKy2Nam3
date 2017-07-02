@@ -1,0 +1,9 @@
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanDijktra\ThuatToanDijktra\bin\Debug\ThuatToanDijktra.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanDijktra\ThuatToanDijktra\bin\Debug\ThuatToanDijktra.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanDijktra\ThuatToanDijktra\bin\Debug\ThuatToanDijktra.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanDijktra\ThuatToanDijktra\obj\Debug\ThuatToanDijktra.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanDijktra\ThuatToanDijktra\obj\Debug\ThuatToanDijktra.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanDijktra\ThuatToanDijktra\obj\Debug\ThuatToanDijktra.csprojResolveAssemblyReference.cache
+E:\Phân tích thiết kế giải thuật\Bài tập\Tham lam\ThuatToanDijktra\ThuatToanDijktra\bin\Debug\ThuatToanDijktra.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\Tham lam\ThuatToanDijktra\ThuatToanDijktra\obj\Debug\ThuatToanDijktra.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\Tham lam\ThuatToanDijktra\ThuatToanDijktra\obj\Debug\ThuatToanDijktra.pdb

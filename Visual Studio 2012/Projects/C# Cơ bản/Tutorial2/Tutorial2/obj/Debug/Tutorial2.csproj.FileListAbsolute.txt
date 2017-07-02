@@ -1,0 +1,9 @@
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial2\bin\Debug\Tutorial2.exe.config
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial2\bin\Debug\Tutorial2.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial2\bin\Debug\Tutorial2.pdb
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial2\obj\Debug\Tutorial2.csprojResolveAssemblyReference.cache
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial2\obj\Debug\Tutorial2.WebLink.resources
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial2\obj\Debug\Tutorial2.Properties.Resources.resources
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial2\obj\Debug\Tutorial2.csproj.GenerateResource.Cache
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial2\obj\Debug\Tutorial2.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial2\obj\Debug\Tutorial2.pdb

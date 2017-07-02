@@ -1,0 +1,9 @@
+C:\Users\nguye\AppData\Local\Temporary Projects\Generic\bin\Debug\Generic.exe.config
+C:\Users\nguye\AppData\Local\Temporary Projects\Generic\obj\Debug\Generic.csprojResolveAssemblyReference.cache
+C:\Users\nguye\AppData\Local\Temporary Projects\Generic\bin\Debug\Generic.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\Generic\bin\Debug\Generic.pdb
+C:\Users\nguye\AppData\Local\Temporary Projects\Generic\obj\Debug\Generic.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\Generic\obj\Debug\Generic.pdb
+E:\Visual Studio 2012\Projects\Generic\Generic\bin\Debug\Generic.exe.config
+E:\Visual Studio 2012\Projects\Generic\Generic\obj\Debug\Generic.exe
+E:\Visual Studio 2012\Projects\Generic\Generic\obj\Debug\Generic.pdb

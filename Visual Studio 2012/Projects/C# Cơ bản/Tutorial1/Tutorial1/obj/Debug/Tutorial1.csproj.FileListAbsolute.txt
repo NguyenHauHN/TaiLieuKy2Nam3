@@ -1,0 +1,10 @@
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial1\bin\Debug\Tutorial1.exe.config
+E:\Visual Studio 2012\Projects\C# Cơ bản\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe.config
+E:\Visual Studio 2012\Projects\C# Cơ bản\Tutorial1\Tutorial1\obj\Debug\Tutorial1.Display.resources
+E:\Visual Studio 2012\Projects\C# Cơ bản\Tutorial1\Tutorial1\obj\Debug\Tutorial1.Login.resources
+E:\Visual Studio 2012\Projects\C# Cơ bản\Tutorial1\Tutorial1\obj\Debug\Tutorial1.Properties.Resources.resources
+E:\Visual Studio 2012\Projects\C# Cơ bản\Tutorial1\Tutorial1\obj\Debug\Tutorial1.csproj.GenerateResource.Cache
+E:\Visual Studio 2012\Projects\C# Cơ bản\Tutorial1\Tutorial1\bin\Debug\Tutorial1.exe
+E:\Visual Studio 2012\Projects\C# Cơ bản\Tutorial1\Tutorial1\bin\Debug\Tutorial1.pdb
+E:\Visual Studio 2012\Projects\C# Cơ bản\Tutorial1\Tutorial1\obj\Debug\Tutorial1.exe
+E:\Visual Studio 2012\Projects\C# Cơ bản\Tutorial1\Tutorial1\obj\Debug\Tutorial1.pdb

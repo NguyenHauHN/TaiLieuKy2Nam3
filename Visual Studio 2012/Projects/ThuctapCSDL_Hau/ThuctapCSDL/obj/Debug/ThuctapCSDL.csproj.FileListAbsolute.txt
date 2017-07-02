@@ -1,0 +1,125 @@
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe.config
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.pdb
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csprojResolveAssemblyReference.cache
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmComputer.resources
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmRepair.resources
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.LogIn.resources
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.Properties.Resources.resources
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csproj.GenerateResource.Cache
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.exe
+c:\users\do quang hung\documents\visual studio 2015\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.pdb
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe.config
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.exe
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.pdb
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.pdb
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\mscorlib.dll
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\System.Net.Http.dll
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\System.Net.Http.xml
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\normidna.nlp
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\normnfc.nlp
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\normnfd.nlp
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\normnfkc.nlp
+E:\ThuctapCSDL\ThuctapCSDL\bin\Debug\normnfkd.nlp
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csprojResolveAssemblyReference.cache
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmComputer.resources
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmRepair.resources
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.LogIn.resources
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.Properties.Resources.resources
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csproj.GenerateResource.Cache
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.PhongMT.resources
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.LinhKien.resources
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.UC.UC_Home.resources
+E:\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.Home.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe.config
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.exe
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.pdb
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe.config
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.CungCap_TB.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmComputer.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.formUser.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmCanBo.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmRepair.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmThietBi.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.Home.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.LinhKien.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.LogIn.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.MaLoaiTB.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.NhaCC.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.PhongMT.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.Properties.Resources.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.ThanhliTB.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.UC.UC_Home.resources
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csproj.GenerateResource.Cache
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.exe
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.pdb
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.pdb
+E:\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csprojResolveAssemblyReference.cache
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmComputer.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmNewUser.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmManager.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmRepair.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmDevice.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmDeviceProviding.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmSupplier.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmHome.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmCompAccessories.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmLogIn.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmDeviceType.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmCompRoom.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.Properties.Resources.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmDeviceSaling.resources
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csproj.GenerateResource.Cache
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe.config
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.pdb
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.exe
+C:\Users\Do Quang Hung\Downloads\Đỗ Thị Ngọc Mai_TH13C_Quản lí phòng máy\ThuctapCSDL1\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.pdb
+E:\Project\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe.config
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.exe
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.pdb
+E:\Project\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe
+E:\Project\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.pdb
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csprojResolveAssemblyReference.cache
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmComputer.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmNewUser.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmManager.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmRepair.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmDevice.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmDeviceProviding.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmSupplier.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmHome.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmCompAccessories.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmLogIn.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmDeviceType.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmCompRoom.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.Properties.Resources.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csproj.GenerateResource.Cache
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmDeviceSale.resources
+E:\Project\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmStatistic.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\bin\Debug\ThuctapCSDL.pdb
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmComputer.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmDeviceSale.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmNewUser.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmManager.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmRepair.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmDevice.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmDeviceProviding.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmStatistic.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmSupplier.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmHome.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmCompAccessories.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmLogIn.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmDeviceType.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.frmCompRoom.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.Properties.Resources.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.csproj.GenerateResource.Cache
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmPhieuNhap.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL\ThuctapCSDL\obj\Debug\ThuctapCSDL.GUI.frmChiTiet.resources
+E:\Visual Studio 2012\Projects\ThuctapCSDL_Hau\ThuctapCSDL\bin\Debug\ThuctapCSDL.exe.config
+E:\Visual Studio 2012\Projects\ThuctapCSDL_Hau\ThuctapCSDL\obj\Debug\ThuctapCSDL.exe
+E:\Visual Studio 2012\Projects\ThuctapCSDL_Hau\ThuctapCSDL\obj\Debug\ThuctapCSDL.pdb

@@ -1,0 +1,8 @@
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial3\bin\Debug\Tutorial3.exe.config
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial3\bin\Debug\Tutorial3.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial3\bin\Debug\Tutorial3.pdb
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial3\obj\Debug\Tutorial3.ChuyenFont.resources
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial3\obj\Debug\Tutorial3.Properties.Resources.resources
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial3\obj\Debug\Tutorial3.csproj.GenerateResource.Cache
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial3\obj\Debug\Tutorial3.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial3\obj\Debug\Tutorial3.pdb

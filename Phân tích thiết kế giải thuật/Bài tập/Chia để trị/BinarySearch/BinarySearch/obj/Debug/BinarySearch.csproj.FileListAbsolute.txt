@@ -1,0 +1,14 @@
+C:\Users\nguye\AppData\Local\Temporary Projects\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\nguye\AppData\Local\Temporary Projects\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\nguye\AppData\Local\Temporary Projects\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\BinarySearch\obj\Debug\BinarySearch.pdb
+E:\Visual Studio 2012\Projects\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+E:\Visual Studio 2012\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+E:\Visual Studio 2012\Projects\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache

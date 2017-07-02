@@ -1,0 +1,31 @@
+C:\Users\nguye\AppData\Local\Temporary Projects\BTVN\bin\Debug\BTVN.exe.config
+C:\Users\nguye\AppData\Local\Temporary Projects\BTVN\bin\Debug\BTVN.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\BTVN\bin\Debug\BTVN.pdb
+C:\Users\nguye\AppData\Local\Temporary Projects\BTVN\obj\Debug\BTVN.csprojResolveAssemblyReference.cache
+C:\Users\nguye\AppData\Local\Temporary Projects\BTVN\obj\Debug\BTVN.Form1.resources
+C:\Users\nguye\AppData\Local\Temporary Projects\BTVN\obj\Debug\BTVN.Properties.Resources.resources
+C:\Users\nguye\AppData\Local\Temporary Projects\BTVN\obj\Debug\BTVN.csproj.GenerateResource.Cache
+C:\Users\nguye\AppData\Local\Temporary Projects\BTVN\obj\Debug\BTVN.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\BTVN\obj\Debug\BTVN.pdb
+C:\Users\nguye\AppData\Local\Temporary Projects\BTVN\obj\Debug\BTVN.ThemMoi.resources
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\BTVN\BTVN\bin\Debug\BTVN.exe.config
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.exe
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.pdb
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\BTVN\BTVN\bin\Debug\BTVN.exe
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\BTVN\BTVN\bin\Debug\BTVN.pdb
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.Form1.resources
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.Properties.Resources.resources
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.ThemMoi.resources
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.csproj.GenerateResource.Cache
+E:\Visual Studio 2012\Projects\BTVN\BTVN\bin\Debug\BTVN.exe.config
+E:\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.exe
+E:\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.pdb
+E:\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.Add.resources
+E:\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.Properties.Resources.resources
+E:\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.csproj.GenerateResource.Cache
+E:\Visual Studio 2012\Projects\BTVN\BTVN\bin\Debug\BTVN.exe
+E:\Visual Studio 2012\Projects\BTVN\BTVN\bin\Debug\BTVN.pdb
+E:\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.Home.resources
+E:\Visual Studio 2012\Projects\BTVN\BTVN\obj\Debug\BTVN.Update.resources

@@ -1,0 +1,6 @@
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanPrim\ThuatToanPrim\bin\Debug\ThuatToanPrim.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanPrim\ThuatToanPrim\bin\Debug\ThuatToanPrim.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanPrim\ThuatToanPrim\bin\Debug\ThuatToanPrim.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanPrim\ThuatToanPrim\obj\Debug\ThuatToanPrim.csprojResolveAssemblyReference.cache
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanPrim\ThuatToanPrim\obj\Debug\ThuatToanPrim.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanPrim\ThuatToanPrim\obj\Debug\ThuatToanPrim.pdb

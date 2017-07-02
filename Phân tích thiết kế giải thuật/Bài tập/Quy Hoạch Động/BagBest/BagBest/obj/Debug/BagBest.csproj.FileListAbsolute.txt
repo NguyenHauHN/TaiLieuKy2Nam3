@@ -1,0 +1,6 @@
+E:\Phân tích thiết kế giải thuật\Bài tập\BagBest\BagBest\bin\Debug\BagBest.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\BagBest\BagBest\bin\Debug\BagBest.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\BagBest\BagBest\bin\Debug\BagBest.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\BagBest\BagBest\obj\Debug\BagBest.csprojResolveAssemblyReference.cache
+E:\Phân tích thiết kế giải thuật\Bài tập\BagBest\BagBest\obj\Debug\BagBest.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\BagBest\BagBest\obj\Debug\BagBest.pdb

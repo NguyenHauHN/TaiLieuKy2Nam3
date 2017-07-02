@@ -1,0 +1,8 @@
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial4\bin\Debug\Tutorial4.exe.config
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial4\bin\Debug\Tutorial4.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial4\bin\Debug\Tutorial4.pdb
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial4\obj\Debug\Tutorial4.Form1.resources
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial4\obj\Debug\Tutorial4.Properties.Resources.resources
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial4\obj\Debug\Tutorial4.csproj.GenerateResource.Cache
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial4\obj\Debug\Tutorial4.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\Tutorial4\obj\Debug\Tutorial4.pdb

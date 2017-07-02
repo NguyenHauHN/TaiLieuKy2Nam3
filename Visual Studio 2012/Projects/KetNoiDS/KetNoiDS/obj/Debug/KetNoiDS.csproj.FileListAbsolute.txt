@@ -1,0 +1,15 @@
+C:\Users\nguye\AppData\Local\Temporary Projects\KetNoiDS\bin\Debug\KetNoiDS.exe.config
+C:\Users\nguye\AppData\Local\Temporary Projects\KetNoiDS\bin\Debug\KetNoiDS.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\KetNoiDS\bin\Debug\KetNoiDS.pdb
+C:\Users\nguye\AppData\Local\Temporary Projects\KetNoiDS\obj\Debug\KetNoiDS.csprojResolveAssemblyReference.cache
+C:\Users\nguye\AppData\Local\Temporary Projects\KetNoiDS\obj\Debug\KetNoiDS.Form1.resources
+C:\Users\nguye\AppData\Local\Temporary Projects\KetNoiDS\obj\Debug\KetNoiDS.Properties.Resources.resources
+C:\Users\nguye\AppData\Local\Temporary Projects\KetNoiDS\obj\Debug\KetNoiDS.csproj.GenerateResource.Cache
+C:\Users\nguye\AppData\Local\Temporary Projects\KetNoiDS\obj\Debug\KetNoiDS.exe
+C:\Users\nguye\AppData\Local\Temporary Projects\KetNoiDS\obj\Debug\KetNoiDS.pdb
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\KetNoiDS\KetNoiDS\bin\Debug\KetNoiDS.exe.config
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\KetNoiDS\KetNoiDS\obj\Debug\KetNoiDS.exe
+C:\Users\nguye\Documents\Visual Studio 2012\Projects\KetNoiDS\KetNoiDS\obj\Debug\KetNoiDS.pdb
+E:\Visual Studio 2012\Projects\KetNoiDS\KetNoiDS\bin\Debug\KetNoiDS.exe.config
+E:\Visual Studio 2012\Projects\KetNoiDS\KetNoiDS\obj\Debug\KetNoiDS.exe
+E:\Visual Studio 2012\Projects\KetNoiDS\KetNoiDS\obj\Debug\KetNoiDS.pdb

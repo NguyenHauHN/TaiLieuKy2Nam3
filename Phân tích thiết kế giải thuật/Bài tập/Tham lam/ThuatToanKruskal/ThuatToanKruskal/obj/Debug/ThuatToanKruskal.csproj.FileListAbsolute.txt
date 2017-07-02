@@ -1,0 +1,9 @@
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanKruskal\ThuatToanKruskal\bin\Debug\ThuatToanKruskal.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanKruskal\ThuatToanKruskal\bin\Debug\ThuatToanKruskal.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanKruskal\ThuatToanKruskal\bin\Debug\ThuatToanKruskal.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanKruskal\ThuatToanKruskal\obj\Debug\ThuatToanKruskal.csprojResolveAssemblyReference.cache
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanKruskal\ThuatToanKruskal\obj\Debug\ThuatToanKruskal.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\ThuatToanKruskal\ThuatToanKruskal\obj\Debug\ThuatToanKruskal.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\Tham lam\ThuatToanKruskal\ThuatToanKruskal\bin\Debug\ThuatToanKruskal.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\Tham lam\ThuatToanKruskal\ThuatToanKruskal\obj\Debug\ThuatToanKruskal.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\Tham lam\ThuatToanKruskal\ThuatToanKruskal\obj\Debug\ThuatToanKruskal.pdb

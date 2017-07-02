@@ -1,0 +1,6 @@
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\BaiToan8Hau\BaiToan8Hau\bin\Debug\BaiToan8Hau.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\BaiToan8Hau\BaiToan8Hau\bin\Debug\BaiToan8Hau.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\BaiToan8Hau\BaiToan8Hau\bin\Debug\BaiToan8Hau.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\BaiToan8Hau\BaiToan8Hau\obj\Debug\BaiToan8Hau.csprojResolveAssemblyReference.cache
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\BaiToan8Hau\BaiToan8Hau\obj\Debug\BaiToan8Hau.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\Quay lui\BaiToan8Hau\BaiToan8Hau\obj\Debug\BaiToan8Hau.pdb

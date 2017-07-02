@@ -1,0 +1,6 @@
+Cac do vat lay di la: 
+6 , 3 , 2
+
+Tong trong luong la: 18
+
+Gia tri: 70

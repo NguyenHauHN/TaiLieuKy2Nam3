@@ -1,0 +1,12 @@
+1 ke voi 2
+1 -> 3 di qua 4
+1 -> 4 di qua 2
+2 -> 1 di qua 4
+2 -> 3 di qua 4
+2 ke voi 4
+3 ke voi 1
+3 -> 2 di qua 1
+3 ke voi 4
+4 ke voi 1
+4 -> 2 di qua 1
+4 ke voi 3

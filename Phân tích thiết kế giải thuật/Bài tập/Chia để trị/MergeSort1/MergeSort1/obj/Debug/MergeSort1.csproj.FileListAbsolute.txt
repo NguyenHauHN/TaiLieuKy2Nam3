@@ -1,0 +1,5 @@
+E:\Phân tích thiết kế giải thuật\Bài tập\MergeSort1\MergeSort1\bin\Debug\MergeSort1.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\MergeSort1\MergeSort1\bin\Debug\MergeSort1.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\MergeSort1\MergeSort1\bin\Debug\MergeSort1.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\MergeSort1\MergeSort1\obj\Debug\MergeSort1.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\MergeSort1\MergeSort1\obj\Debug\MergeSort1.pdb

@@ -1,0 +1,6 @@
+E:\Phân tích thiết kế giải thuật\Bài tập\DayConCoTongLonNhat\DayConCoTongLonNhat\bin\Debug\DayConCoTongLonNhat.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\DayConCoTongLonNhat\DayConCoTongLonNhat\bin\Debug\DayConCoTongLonNhat.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\DayConCoTongLonNhat\DayConCoTongLonNhat\bin\Debug\DayConCoTongLonNhat.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\DayConCoTongLonNhat\DayConCoTongLonNhat\obj\Debug\DayConCoTongLonNhat.csprojResolveAssemblyReference.cache
+E:\Phân tích thiết kế giải thuật\Bài tập\DayConCoTongLonNhat\DayConCoTongLonNhat\obj\Debug\DayConCoTongLonNhat.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\DayConCoTongLonNhat\DayConCoTongLonNhat\obj\Debug\DayConCoTongLonNhat.pdb

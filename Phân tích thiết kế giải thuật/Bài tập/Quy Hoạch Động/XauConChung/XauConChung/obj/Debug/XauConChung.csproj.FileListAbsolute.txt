@@ -1,0 +1,6 @@
+E:\Phân tích thiết kế giải thuật\Bài tập\XauConChung\XauConChung\bin\Debug\XauConChung.exe.config
+E:\Phân tích thiết kế giải thuật\Bài tập\XauConChung\XauConChung\bin\Debug\XauConChung.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\XauConChung\XauConChung\bin\Debug\XauConChung.pdb
+E:\Phân tích thiết kế giải thuật\Bài tập\XauConChung\XauConChung\obj\Debug\XauConChung.csprojResolveAssemblyReference.cache
+E:\Phân tích thiết kế giải thuật\Bài tập\XauConChung\XauConChung\obj\Debug\XauConChung.exe
+E:\Phân tích thiết kế giải thuật\Bài tập\XauConChung\XauConChung\obj\Debug\XauConChung.pdb
